@@ -3,7 +3,7 @@
 This is a project to build a game called Tic-Tac-Toe.
 You can check it over [here](https://bom-dev.github.io/tic-tac-toe/).
 
-### Technology
+### Technology:
 HTML/CSS, JavaScript
 
 ### This includes functions:
